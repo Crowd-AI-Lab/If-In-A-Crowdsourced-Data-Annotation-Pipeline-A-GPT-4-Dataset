@@ -1,0 +1,171 @@
+{
+    "paper_id": "f9d6792a1f336af2330c0550c155178d626c4d08",
+    "cord_uid": "ogv4sk5y",
+    "sentence_segment": {
+        "1": {
+            "segment": "We compared antibiotic prescribing before and during the coronavirus disease 2019 ( COVID-19 ) pandemic at 2 academic urgent care clinics and found a sustained decrease in prescribing driven by respiratory encounters and despite transitioning to telemedicine .",
+            "label": {
+                "basic": {
+                    "B18": "purpose",
+                    "B40": "background",
+                    "B15": "method",
+                    "B17": "purpose",
+                    "B108": "purpose",
+                    "B113": "background",
+                    "B43": "purpose",
+                    "B96": "background",
+                    "B98": "purpose",
+                    "B120": "background",
+                    "B4": "method",
+                    "B107": "background",
+                    "B20": "finding",
+                    "B38": "finding",
+                    "B51": "background",
+                    "B35": "method",
+                    "B101": "background",
+                    "B100": "background",
+                    "B112": "background",
+                    "B7": "background"
+                },
+                "advanced": {
+                    "A115": "finding",
+                    "A79": "purpose",
+                    "A22": "purpose",
+                    "A106": "finding",
+                    "A95": "finding",
+                    "A75": "method",
+                    "A25": "background",
+                    "A114": "background",
+                    "A91": "background",
+                    "A97": "background",
+                    "A93": "method",
+                    "A35": "other",
+                    "A92": "method",
+                    "A9": "method",
+                    "A40": "background",
+                    "A89": "finding",
+                    "A116": "method",
+                    "A2": "purpose",
+                    "A117": "purpose",
+                    "A6": "background"
+                },
+                "gpt-4": {
+                    "gpt-t1.0": "method",
+                    "gpt-t0.2": "method"
+                },
+                "cs-expert": "method",
+                "bio-expert": "method"
+            }
+        },
+        "2": {
+            "segment": "Antibiotics were rarely prescribed during encounters for COVID-19 or COVID-19 symptoms .",
+            "label": {
+                "basic": {
+                    "B18": "method",
+                    "B40": "purpose",
+                    "B15": "finding",
+                    "B17": "method",
+                    "B108": "method",
+                    "B113": "method",
+                    "B43": "method",
+                    "B96": "purpose",
+                    "B98": "background",
+                    "B120": "purpose",
+                    "B4": "method",
+                    "B107": "method",
+                    "B20": "other",
+                    "B38": "method",
+                    "B51": "background",
+                    "B35": "other",
+                    "B101": "finding",
+                    "B100": "method",
+                    "B112": "finding",
+                    "B7": "purpose"
+                },
+                "advanced": {
+                    "A115": "method",
+                    "A79": "method",
+                    "A22": "method",
+                    "A106": "finding",
+                    "A95": "background",
+                    "A75": "background",
+                    "A25": "purpose",
+                    "A114": "purpose",
+                    "A91": "finding",
+                    "A97": "purpose",
+                    "A93": "finding",
+                    "A35": "finding",
+                    "A92": "finding",
+                    "A9": "other",
+                    "A40": "purpose",
+                    "A89": "method",
+                    "A116": "purpose",
+                    "A2": "finding",
+                    "A117": "purpose",
+                    "A6": "background"
+                },
+                "gpt-4": {
+                    "gpt-t1.0": "finding",
+                    "gpt-t0.2": "finding"
+                },
+                "cs-expert": "finding",
+                "bio-expert": "finding"
+            }
+        },
+        "3": {
+            "segment": "COVID-19 revealed opportunities for outpatient stewardship programs .",
+            "label": {
+                "basic": {
+                    "B18": "purpose",
+                    "B40": "method",
+                    "B15": "purpose",
+                    "B17": "finding",
+                    "B108": "purpose",
+                    "B113": "finding",
+                    "B43": "purpose",
+                    "B96": "finding",
+                    "B98": "background",
+                    "B120": "purpose",
+                    "B4": "purpose",
+                    "B107": "background",
+                    "B20": "purpose",
+                    "B38": "purpose",
+                    "B51": "background",
+                    "B35": "finding",
+                    "B101": "method",
+                    "B100": "method",
+                    "B112": "finding",
+                    "B7": "method"
+                },
+                "advanced": {
+                    "A115": "method",
+                    "A79": "purpose",
+                    "A22": "finding",
+                    "A106": "finding",
+                    "A95": "method",
+                    "A75": "method",
+                    "A25": "background",
+                    "A114": "method",
+                    "A91": "finding",
+                    "A97": "method",
+                    "A93": "method",
+                    "A35": "method",
+                    "A92": "method",
+                    "A9": "purpose",
+                    "A40": "method",
+                    "A89": "method",
+                    "A116": "finding",
+                    "A2": "method",
+                    "A117": "purpose",
+                    "A6": "background"
+                },
+                "gpt-4": {
+                    "gpt-t1.0": "finding",
+                    "gpt-t0.2": "finding"
+                },
+                "cs-expert": "finding",
+                "bio-expert": "finding"
+            }
+        }
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "paper_id": "7ea614312f78b9e27fd90aa780ec332dd108cb24",
+    "cord_uid": "k9ryc1q1",
+    "sentence_segment": {
+        "1": {
+            "segment": "In this paper , the erythrocytes of healthy donors and people with a confirmed diagnosis of COVID-19 were tested by Raman spectroscopy and laser interference microscopy .",
+            "label": {
+                "basic": {
+                    "B7": "background",
+                    "B9": "purpose",
+                    "B80": "background",
+                    "B3": "purpose",
+                    "B76": "background",
+                    "B4": "purpose",
+                    "B66": "background",
+                    "B1": "purpose",
+                    "B5": "background",
+                    "B12": "method",
+                    "B25": "background",
+                    "B11": "purpose",
+                    "B15": "purpose",
+                    "B35": "method",
+                    "B6": "purpose",
+                    "B20": "purpose",
+                    "B27": "purpose",
+                    "B18": "method",
+                    "B48": "method",
+                    "B81": "purpose"
+                },
+                "advanced": {
+                    "A3": "background",
+                    "A4": "background",
+                    "A8": "background",
+                    "A7": "method",
+                    "A5": "background",
+                    "A2": "purpose",
+                    "A1": "purpose",
+                    "A43": "background",
+                    "A24": "purpose",
+                    "A78": "method",
+                    "A66": "method",
+                    "A32": "purpose",
+                    "A16": "method",
+                    "A10": "purpose",
+                    "A9": "background",
+                    "A14": "purpose",
+                    "A25": "background",
+                    "A17": "background",
+                    "A40": "background",
+                    "A26": "purpose"
+                },
+                "gpt-4": {
+                    "gpt-t1.0": "purpose",
+                    "gpt-t0.2": "purpose"
+                },
+                "cs-expert": "method",
+                "bio-expert": "method"
+            }
+        },
+        "2": {
+            "segment": "We argue that erythrocytes ( red blood cells ) in COVID-19 patients have an irregular shape ,",
+            "label": {
+                "basic": {
+                    "B7": "purpose",
+                    "B9": "finding",
+                    "B80": "purpose",
+                    "B3": "method",
+                    "B76": "method",
+                    "B4": "method",
+                    "B66": "purpose",
+                    "B1": "method",
+                    "B5": "purpose",
+                    "B12": "background",
+                    "B25": "finding",
+                    "B11": "finding",
+                    "B15": "finding",
+                    "B35": "method",
+                    "B6": "background",
+                    "B20": "finding",
+                    "B27": "background",
+                    "B18": "method",
+                    "B48": "finding",
+                    "B81": "method"
+                },
+                "advanced": {
+                    "A3": "purpose",
+                    "A4": "purpose",
+                    "A8": "purpose",
+                    "A7": "finding",
+                    "A5": "method",
+                    "A2": "purpose",
+                    "A1": "background",
+                    "A43": "purpose",
+                    "A24": "finding",
+                    "A78": "finding",
+                    "A66": "purpose",
+                    "A32": "background",
+                    "A16": "purpose",
+                    "A10": "background",
+                    "A9": "purpose",
+                    "A14": "purpose",
+                    "A25": "purpose",
+                    "A17": "background",
+                    "A40": "purpose",
+                    "A26": "purpose"
+                },
+                "gpt-4": {
+                    "gpt-t1.0": "finding",
+                    "gpt-t0.2": "finding"
+                },
+                "cs-expert": "purpose",
+                "bio-expert": "finding"
+            }
+        },
+        "3": {
+            "segment": "and their morphometric characteristics are impaired in comparison to healthy red blood cells .",
+            "label": {
+                "basic": {
+                    "B7": "finding",
+                    "B9": "purpose",
+                    "B80": "purpose",
+                    "B3": "background",
+                    "B76": "background",
+                    "B4": "purpose",
+                    "B66": "method",
+                    "B1": "method",
+                    "B5": "purpose",
+                    "B12": "background",
+                    "B25": "method",
+                    "B11": "background",
+                    "B15": "method",
+                    "B35": "method",
+                    "B6": "method",
+                    "B20": "method",
+                    "B27": "finding",
+                    "B18": "method",
+                    "B48": "purpose",
+                    "B81": "method"
+                },
+                "advanced": {
+                    "A3": "purpose",
+                    "A4": "method",
+                    "A8": "background",
+                    "A7": "purpose",
+                    "A5": "finding",
+                    "A2": "method",
+                    "A1": "finding",
+                    "A43": "purpose",
+                    "A24": "finding",
+                    "A78": "method",
+                    "A66": "background",
+                    "A32": "method",
+                    "A16": "finding",
+                    "A10": "background",
+                    "A9": "method",
+                    "A14": "method",
+                    "A25": "background",
+                    "A17": "background",
+                    "A40": "background",
+                    "A26": "background"
+                },
+                "gpt-4": {
+                    "gpt-t1.0": "finding",
+                    "gpt-t0.2": "finding"
+                },
+                "cs-expert": "purpose",
+                "bio-expert": "finding"
+            }
+        },
+        "4": {
+            "segment": "Raman spectroscopy also allows us to detect a decreased oxygen transport function of these erythrocytes .",
+            "label": {
+                "basic": {
+                    "B7": "method",
+                    "B9": "method",
+                    "B80": "method",
+                    "B3": "purpose",
+                    "B76": "background",
+                    "B4": "method",
+                    "B66": "finding",
+                    "B1": "finding",
+                    "B5": "finding",
+                    "B12": "method",
+                    "B25": "other",
+                    "B11": "method",
+                    "B15": "finding",
+                    "B35": "method",
+                    "B6": "purpose",
+                    "B20": "finding",
+                    "B27": "purpose",
+                    "B18": "method",
+                    "B48": "method",
+                    "B81": "purpose"
+                },
+                "advanced": {
+                    "A3": "purpose",
+                    "A4": "finding",
+                    "A8": "purpose",
+                    "A7": "finding",
+                    "A5": "method",
+                    "A2": "finding",
+                    "A1": "method",
+                    "A43": "finding",
+                    "A24": "finding",
+                    "A78": "method",
+                    "A66": "finding",
+                    "A32": "purpose",
+                    "A16": "finding",
+                    "A10": "background",
+                    "A9": "finding",
+                    "A14": "finding",
+                    "A25": "purpose",
+                    "A17": "purpose",
+                    "A40": "purpose",
+                    "A26": "purpose"
+                },
+                "gpt-4": {
+                    "gpt-t1.0": "finding",
+                    "gpt-t0.2": "finding"
+                },
+                "cs-expert": "method",
+                "bio-expert": "method"
+            }
+        },
+        "5": {
+            "segment": "The combination of these methods -- Raman spectroscopy and laser interference microscopy -- is a highly effective method for the diagnosis of SARS-CoV-2 .",
+            "label": {
+                "basic": {
+                    "B7": "purpose",
+                    "B9": "method",
+                    "B80": "finding",
+                    "B3": "method",
+                    "B76": "method",
+                    "B4": "background",
+                    "B66": "method",
+                    "B1": "purpose",
+                    "B5": "purpose",
+                    "B12": "purpose",
+                    "B25": "other",
+                    "B11": "finding",
+                    "B15": "purpose",
+                    "B35": "finding",
+                    "B6": "method",
+                    "B20": "purpose",
+                    "B27": "method",
+                    "B18": "method",
+                    "B48": "method",
+                    "B81": "finding"
+                },
+                "advanced": {
+                    "A3": "purpose",
+                    "A4": "method",
+                    "A8": "background",
+                    "A7": "method",
+                    "A5": "purpose",
+                    "A2": "finding",
+                    "A1": "purpose",
+                    "A43": "method",
+                    "A24": "purpose",
+                    "A78": "method",
+                    "A66": "method",
+                    "A32": "background",
+                    "A16": "purpose",
+                    "A10": "purpose",
+                    "A9": "other",
+                    "A14": "method",
+                    "A25": "background",
+                    "A17": "background",
+                    "A40": "method",
+                    "A26": "background"
+                },
+                "gpt-4": {
+                    "gpt-t1.0": "finding",
+                    "gpt-t0.2": "finding"
+                },
+                "cs-expert": "finding",
+                "bio-expert": "finding"
+            }
+        }
+    }
+}

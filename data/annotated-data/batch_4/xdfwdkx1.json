@@ -1,0 +1,226 @@
+{
+    "paper_id": "df602519c5b9a7001422da46e360c3fc6ec9584e",
+    "cord_uid": "xdfwdkx1",
+    "sentence_segment": {
+        "1": {
+            "segment": "This paper describes the Bayesian SIR modeling of the 3 waves of Covid-19 in two contrasting US states during 2020-2021 .",
+            "label": {
+                "basic": {
+                    "B111": "background",
+                    "B167": "purpose",
+                    "B205": "purpose",
+                    "B9": "purpose",
+                    "B140": "purpose",
+                    "B19": "background",
+                    "B159": "purpose",
+                    "B157": "background",
+                    "B50": "purpose",
+                    "B115": "background",
+                    "B203": "background",
+                    "B8": "background",
+                    "B156": "background",
+                    "B200": "background",
+                    "B142": "purpose",
+                    "B99": "background",
+                    "B11": "purpose",
+                    "B199": "background",
+                    "B17": "method",
+                    "B53": "background"
+                },
+                "advanced": {
+                    "A86": "background",
+                    "A114": "background",
+                    "A15": "background",
+                    "A6": "background",
+                    "A25": "background",
+                    "A184": "background",
+                    "A19": "background",
+                    "A158": "purpose",
+                    "A128": "background",
+                    "A126": "background",
+                    "A182": "purpose",
+                    "A4": "background",
+                    "A45": "method",
+                    "A148": "background",
+                    "A56": "purpose",
+                    "A139": "background",
+                    "A155": "background",
+                    "A188": "purpose",
+                    "A32": "background",
+                    "A157": "purpose"
+                },
+                "gpt-4": {
+                    "gpt-t1.0": "purpose",
+                    "gpt-t0.2": "purpose"
+                },
+                "cs-expert": "purpose",
+                "bio-expert": "method"
+            }
+        },
+        "2": {
+            "segment": "A variety of models are evaluated at the county level for goodness-of-fit and an assessment of confounding predictors is also made .",
+            "label": {
+                "basic": {
+                    "B111": "purpose",
+                    "B167": "background",
+                    "B205": "background",
+                    "B9": "finding",
+                    "B140": "method",
+                    "B19": "method",
+                    "B159": "finding",
+                    "B157": "method",
+                    "B50": "method",
+                    "B115": "method",
+                    "B203": "purpose",
+                    "B8": "purpose",
+                    "B156": "purpose",
+                    "B200": "method",
+                    "B142": "method",
+                    "B99": "purpose",
+                    "B11": "method",
+                    "B199": "background",
+                    "B17": "method",
+                    "B53": "method"
+                },
+                "advanced": {
+                    "A86": "background",
+                    "A114": "purpose",
+                    "A15": "purpose",
+                    "A6": "purpose",
+                    "A25": "purpose",
+                    "A184": "method",
+                    "A19": "purpose",
+                    "A158": "background",
+                    "A128": "purpose",
+                    "A126": "purpose",
+                    "A182": "method",
+                    "A4": "purpose",
+                    "A45": "method",
+                    "A148": "purpose",
+                    "A56": "method",
+                    "A139": "purpose",
+                    "A155": "purpose",
+                    "A188": "method",
+                    "A32": "purpose",
+                    "A157": "background"
+                },
+                "gpt-4": {
+                    "gpt-t1.0": "method",
+                    "gpt-t0.2": "method"
+                },
+                "cs-expert": "method",
+                "bio-expert": "method"
+            }
+        },
+        "3": {
+            "segment": "It is found that models with three deprivation predictors and neighborhood effects are important .",
+            "label": {
+                "basic": {
+                    "B111": "method",
+                    "B167": "purpose",
+                    "B205": "finding",
+                    "B9": "method",
+                    "B140": "method",
+                    "B19": "finding",
+                    "B159": "purpose",
+                    "B157": "finding",
+                    "B50": "finding",
+                    "B115": "purpose",
+                    "B203": "method",
+                    "B8": "background",
+                    "B156": "method",
+                    "B200": "finding",
+                    "B142": "background",
+                    "B99": "purpose",
+                    "B11": "purpose",
+                    "B199": "background",
+                    "B17": "finding",
+                    "B53": "purpose"
+                },
+                "advanced": {
+                    "A86": "method",
+                    "A114": "background",
+                    "A15": "background",
+                    "A6": "method",
+                    "A25": "method",
+                    "A184": "finding",
+                    "A19": "background",
+                    "A158": "purpose",
+                    "A128": "background",
+                    "A126": "finding",
+                    "A182": "finding",
+                    "A4": "purpose",
+                    "A45": "purpose",
+                    "A148": "method",
+                    "A56": "purpose",
+                    "A139": "purpose",
+                    "A155": "method",
+                    "A188": "finding",
+                    "A32": "method",
+                    "A157": "purpose"
+                },
+                "gpt-4": {
+                    "gpt-t1.0": "finding",
+                    "gpt-t0.2": "finding"
+                },
+                "cs-expert": "finding",
+                "bio-expert": "finding"
+            }
+        },
+        "4": {
+            "segment": "In addition the work index from Google mobility was also found to provide increased explanation of the transmission dynamic .",
+            "label": {
+                "basic": {
+                    "B111": "method",
+                    "B167": "other",
+                    "B205": "purpose",
+                    "B9": "method",
+                    "B140": "purpose",
+                    "B19": "method",
+                    "B159": "background",
+                    "B157": "finding",
+                    "B50": "finding",
+                    "B115": "background",
+                    "B203": "finding",
+                    "B8": "purpose",
+                    "B156": "purpose",
+                    "B200": "finding",
+                    "B142": "finding",
+                    "B99": "method",
+                    "B11": "method",
+                    "B199": "background",
+                    "B17": "finding",
+                    "B53": "background"
+                },
+                "advanced": {
+                    "A86": "finding",
+                    "A114": "purpose",
+                    "A15": "purpose",
+                    "A6": "purpose",
+                    "A25": "finding",
+                    "A184": "purpose",
+                    "A19": "purpose",
+                    "A158": "background",
+                    "A128": "purpose",
+                    "A126": "finding",
+                    "A182": "method",
+                    "A4": "method",
+                    "A45": "finding",
+                    "A148": "finding",
+                    "A56": "method",
+                    "A139": "finding",
+                    "A155": "finding",
+                    "A188": "finding",
+                    "A32": "method",
+                    "A157": "method"
+                },
+                "gpt-4": {
+                    "gpt-t1.0": "finding",
+                    "gpt-t0.2": "finding"
+                },
+                "cs-expert": "finding",
+                "bio-expert": "finding"
+            }
+        }
+    }
+}
